@@ -1,2 +1,4 @@
-# T-SNE
-Visualizing high dimensional data.
+(T-distributed Stochastic Neighbor Embedding)
+ Visualizing high dimensional data.
+
+
